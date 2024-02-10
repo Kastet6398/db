@@ -3,11 +3,11 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class SQLiteConnection {
+public class Db {
     public static void main(String[] args) {
-        String url = "***";
-        String username = "***";
-        String password = "***";
+        String url = "*";
+        String username = "*";
+        String password = "*";
 
 
         try {
