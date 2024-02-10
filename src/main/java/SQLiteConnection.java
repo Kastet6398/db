@@ -5,9 +5,9 @@ import java.sql.SQLException;
 
 public class SQLiteConnection {
     public static void main(String[] args) {
-        String url = "jdbc:postgresql://ep-twilight-cherry-a257ysci.eu-central-1.aws.neon.tech/example?sslmode=require";
-        String username = "konsta.ntinnezhalsky";
-        String password = "sm27ngkjIbxt";
+        String url = "***";
+        String username = "***";
+        String password = "***";
 
 
         try {
