@@ -5,9 +5,9 @@ import java.sql.SQLException;
 
 public class Db {
     public static void main(String[] args) {
-        String url = "*";
-        String username = "*";
-        String password = "*";
+        String url = "jdbc:postgresql://127.0.0.1:5433/postgres";
+        String username = "postgres";
+        String password = "password";
 
 
         try {
